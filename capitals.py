@@ -6,7 +6,7 @@ states = [
     "name": "Alaska",
     "capital": "Juneau"
 }, {
-    "name": "Arizona",
+    "name": "Arizona", 
     "capital": "Phoenix"
 }, {
     "name": "Arkansas",
@@ -150,3 +150,4 @@ states = [
     "name": "Wyoming",
     "capital": "Cheyenne"
 }]
+print("US STATES LIST")
